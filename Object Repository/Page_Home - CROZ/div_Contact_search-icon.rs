@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact_search-icon</name>
+   <tag></tag>
+   <elementGuidId>29982f5b-a603-48b7-aeb1-60f11cf8ef16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70ad9054-e9ff-4842-8ad5-512094609b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-icon</value>
+      <webElementGuid>2636af52-7f19-4608-ae62-c6538b0a0a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home page-template page-template-home page page-id-9 wp-custom-logo app-data index-data singular-data page-data page-9-data page-home-data home-data front-page-data elementor-default elementor-kit-7238&quot;]/header[@class=&quot;header header--normal&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;header-container-box--right&quot;]/div[@class=&quot;search-container&quot;]/div[@class=&quot;search-icon&quot;]</value>
+      <webElementGuid>14ae48b4-a0e0-48f9-8e92-0c8bc4873c3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>361df487-1437-4d34-9a7e-b9c2b317b088</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchIcon</name>
+   <tag></tag>
+   <elementGuidId>5440bdc2-a1cd-4f4b-92c6-d6fad6f8c5b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.search-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7316f68-b093-44a5-98b2-68999eeaea4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-icon</value>
+      <webElementGuid>229cf89e-32e6-4f8a-ac5f-c0f9b30cf8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home page-template page-template-home page page-id-9 wp-custom-logo app-data index-data singular-data page-data page-9-data page-home-data home-data front-page-data elementor-default elementor-kit-7238&quot;]/header[@class=&quot;header header--normal&quot;]/div[@class=&quot;header-container&quot;]/div[@class=&quot;header-container-box--right&quot;]/div[@class=&quot;search-container&quot;]/div[@class=&quot;search-icon&quot;]</value>
+      <webElementGuid>2db76c3e-6f42-4efc-9980-dcf3e3ec87ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>5124864e-dc0b-480d-a218-aa1c6b2d7754</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

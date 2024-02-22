@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Samsung Galaxy S24 Ultra  S928B 512GB GSM Unlocked International Version (New)</name>
+   <tag></tag>
+   <elementGuidId>8dcd0cfa-51aa-461f-95c5-1fea58514840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;item4be5d2aa5b&quot;]/div/div[2]/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#item4be5d2aa5b > div.s-item__wrapper.clearfix > div.s-item__info.clearfix > div.s-item__title-wrapper > a.s-item__link > div.s-item__title > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e841cb5-2422-4dd7-a312-6148720fca6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>48a0d997-ca47-44ca-bb0b-a6c60cccde89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>55c81f4b-16c9-4f65-8f7d-ce61365ee0ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Samsung Galaxy S24 Ultra  S928B 512GB GSM Unlocked International Version (New)</value>
+      <webElementGuid>8d304fcb-e530-4341-b547-8e1d838bacca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item4be5d2aa5b&quot;)/div[@class=&quot;s-item__wrapper clearfix&quot;]/div[@class=&quot;s-item__info clearfix&quot;]/div[@class=&quot;s-item__title-wrapper&quot;]/a[@class=&quot;s-item__link&quot;]/div[@class=&quot;s-item__title&quot;]/span[1]</value>
+      <webElementGuid>ab5b12e6-4242-460d-bee5-84b7cc4befb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item4be5d2aa5b']/div/div[2]/div/a/div/span</value>
+      <webElementGuid>aa52cf24-f0ea-44fd-8532-243909f3c636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from Australia'])[1]/following::span[3]</value>
+      <webElementGuid>76b58977-1d92-4ada-86cf-3027bebe94e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+$16.81 shipping'])[1]/following::span[4]</value>
+      <webElementGuid>2e70509a-ac2e-4d17-aef7-c6533c51fe32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opens in a new window or tab'])[8]/preceding::span[1]</value>
+      <webElementGuid>2a84a54d-2ecf-46c1-8714-800fac83ecb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand New'])[8]/preceding::span[3]</value>
+      <webElementGuid>524f3562-2e4d-423f-97aa-7e4569bbd1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/div[2]/div/a/div/span</value>
+      <webElementGuid>b412e5ab-77ad-4c47-ad4f-1364d47260df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Samsung Galaxy S24 Ultra  S928B 512GB GSM Unlocked International Version (New)' or . = 'Samsung Galaxy S24 Ultra  S928B 512GB GSM Unlocked International Version (New)')]</value>
+      <webElementGuid>510b210b-076f-4f74-be9d-52a578a6345c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
